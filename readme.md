@@ -1,4 +1,4 @@
-# AWS Lambda - Exportação de Dados do DynamoDB para S3
+# 📤 AWS Lambda - Exportação de Dados do DynamoDB para S3
 
 ## Índice
 
